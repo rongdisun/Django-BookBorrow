@@ -67,7 +67,7 @@
 
 可提供远程部署
 
-<img src="https://raw.githubusercontent.com/rongdisun/learn/main/img/8c2a83671fe262dbb5c0a0e8755c34c.jpg" alt="8c2a83671fe262dbb5c0a0e8755c34c" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/rongdisun/learn/main/img/8c2a83671fe262dbb5c0a0e8755c34c.jpg" alt="8c2a83671fe262dbb5c0a0e8755c34c" style="zoom: 25%;" />
 
 
 
