@@ -112,3 +112,4 @@ class UserProfileUpdate(UpdateView):
     form_class = ProfileModelForm
     success_url = reverse_lazy("user:user_profile_view")
     queryset = UserProfile.objects.all()
+
