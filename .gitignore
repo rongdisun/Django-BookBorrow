@@ -1,1 +1,3 @@
 /templates
+/user/models.py
+/user/views.py
